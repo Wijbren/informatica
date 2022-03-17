@@ -1,2 +1,0 @@
-# informatica
-project voor cijfer
